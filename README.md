@@ -1,5 +1,12 @@
+<p align="center">Hi there 👋, My name is Mladen<br><br>I am Software Development Engineer from Serbia<br><br>Proficient in the development of comprehensive full-stack web applications utilizing JavaScript, TypeScript, Node.js, and associated frameworks, as well as incorporating third-party libraries.<br><br>Skills: JAVASCRIPT / TYPESCRIPT / NODEJS / NESTJS / REACT / NEXTJS / GRAPHQL / POSTGRES / MYSQL</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MladenMarkovic20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MladenMarkovic20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -39,6 +46,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<p align="center">Please do not hesitate to reach out and initiate contact.</p>
 
 ###
 
